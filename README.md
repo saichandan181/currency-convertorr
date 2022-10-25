@@ -3,10 +3,12 @@ A currency converter web application that converts and calculates currency excha
 
 <hr>
 
-### Demo Video:
-
 
 
 
 
 ### The website is hosted at : https://saichandan181.github.io/currency-convertorr/
+Donate Us <br>
+<a href="https://www.paypal.me/reddysaichandan">
+  <img alt="Support via PayPal" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg"/>
+</a>
